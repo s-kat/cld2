@@ -18,8 +18,8 @@
 // Declarations for languages recognized by CLD2
 //
 
-#ifndef I18N_ENCODINGS_CLD2_INTERNAL_GENERATED_LANGUAGE_H__
-#define I18N_ENCODINGS_CLD2_INTERNAL_GENERATED_LANGUAGE_H__
+#ifndef I18N_ENCODINGS_CLD2_INTERNAL_GENERATED_LANGUAGE_H_
+#define I18N_ENCODINGS_CLD2_INTERNAL_GENERATED_LANGUAGE_H_
 
 #include "generated_ulscript.h"
 #include "integral_types.h"

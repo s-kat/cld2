@@ -22,8 +22,8 @@
 // plus routines that access side tables based on these
 //
 
-#ifndef I18N_ENCODINGS_CLD2_LANG_SCRIPT_H__
-#define I18N_ENCODINGS_CLD2_LANG_SCRIPT_H__
+#ifndef I18N_ENCODINGS_CLD2_LANG_SCRIPT_H_
+#define I18N_ENCODINGS_CLD2_LANG_SCRIPT_H_
 
 #include "generated_language.h"
 #include "generated_ulscript.h"
